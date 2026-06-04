@@ -1,11 +1,7 @@
 # 3D Dust Density Map of the Solar Neighbourhood
 
 This repository contains the 3D dust density map reconstructed in our paper 
-```
-## Citation
 
-If you use this data, please cite: [Author Names, "Title", MNRAS, Volume, Pages, Year]
-```
 ## Data Files
 
 ### `cube_rho_dust.npy.gz`
